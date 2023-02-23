@@ -1,7 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-Im **Alex Arias** also known as **yugen**, and I'm a BSIT student. I'd want to educate new programmers how to understand their route and design a suitable roadmap so that they may become IT professionals.
-I want to learn a lot and I will continue to do my best to learn more about programming.<br><br>
+Hi there! I'm **Alex Arias**, also known as **yugen**, and I'm a BSIT (Bachelor of Science in Information Technology) student. I'm currently in my first year of college and I love programming and learning about it.
+
+I have a strong background in web development, and I'm proficient in using HTML, CSS, and JavaScript, as well as a variety of other frameworks. I'm always looking to expand my knowledge and explore new technologies.
+
+Feel free to browse my GitHub repositories and get in touch if you have any questions or want to collaborate on a project!<br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3A3A&width=435&lines=18+years+old+student+developer)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-alex.arias.jorym@gmail.com-red)](mailto:alex.arias.jorym@gmail.com)
