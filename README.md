@@ -12,8 +12,11 @@ Please explore my GitHub repositories and contact me if you have any questions o
 
 ## How to reach me
 [![](https://img.shields.io/badge/alex.arias.jorym%40gmail.com-red?style=flat-square&logo=gmail&labelColor=white)](mailto:alex.arias.jorym@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-white?style=flat-square&logo=twitter)](https://twitter.com/_zygen)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renzyxdev/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-white?style=flat-square&logo=facebook)](https://web.facebook.com/yugen.eins/)
+[![Twitter](https://img.shields.io/badge/Twitter-white?style=flat-square&logo=twitter)](https://twitter.com/_zygen)
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram)](https://www.instagram.com/_ynozen)
 
 ## 🛠 Technologies
 <details>
