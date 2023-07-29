@@ -45,7 +45,20 @@ Please explore my GitHub repositories and contact me if you have any questions o
 <details>
   <summary>💻 Coding stats</summary>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```all_time
+From: 22 July 2023 - To: 29 July 2023
+
+Total Time: 4 hrs 16 mins
+
+Sass         1 hr 45 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.15 %
+HTML         53 mins         ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.89 %
+TypeScript   34 mins         ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.63 %
+Markdown     25 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.86 %
+TSConfig     18 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.35 %
+```
+
+<!--END_SECTION:waka-->
 </details>
 
 <details>
