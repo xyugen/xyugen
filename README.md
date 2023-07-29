@@ -43,6 +43,12 @@ Please explore my GitHub repositories and contact me if you have any questions o
 ---
 
 <details>
+  <summary>💻 Coding stats</summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
+<details>
   <summary>⚡ GitHub Stats</summary>
   <br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xyugen&theme=aura_dark&date_format=M%20j%5B%2C%20Y%5D" />
