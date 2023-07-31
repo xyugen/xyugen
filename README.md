@@ -23,7 +23,7 @@ Please explore my GitHub repositories and contact me if you have any questions o
   <summary>🌎 Web Development</summary>
   <br />
 
-  ![WebDev](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,nodejs,wordpress,react,mysql,postgresql,&perline=10)
+  ![WebDev](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,nodejs,react,webpack,vite,wordpress,react,tailwind,md,regex&perline=10)
 
 </details>
 
@@ -31,7 +31,7 @@ Please explore my GitHub repositories and contact me if you have any questions o
   <summary>🖥️ Desktop & Backend Development</summary>
   <br />
   
-  ![Desktop and Backend](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,kotlin,py,bots,firebase,godot,heroku,idea&perline=10)
+  ![Desktop and Backend](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,kotlin,py,bots,firebase,godot,heroku,netlify,vercel,cloudflare,linux,mysql,postgresql,supabase,postman,prisma&perline=10)
 
 </details>
 
@@ -39,7 +39,7 @@ Please explore my GitHub repositories and contact me if you have any questions o
   <summary>🔧 Frontend Design and Tooling</summary>
   <br />
   
-  ![Design and Tools](https://skillicons.dev/icons?i=netlify,supabase,tailwind,figma,ps,ai,cloudflare,jquery,vscode,visualstudio,androidstudio,bash,vim,docker,git&perline=10)
+  ![Design and Tools](https://skillicons.dev/icons?i=figma,ps,ai,jquery,vscode,visualstudio,androidstudio,idea,eclipse,atom,bash,vim,docker,git,stackoverflow&perline=10)
 
 </details>
 
