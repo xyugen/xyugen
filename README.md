@@ -21,22 +21,25 @@ Please explore my GitHub repositories and contact me if you have any questions o
 ## 🛠 Technologies
 <details>
   <summary>🌎 Web Development</summary>
+  <br />
 
-  ![WebDev](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,nodejs,wordpress,react,mysql,postgresql,vim,docker,git,figma,ps,ai,cloudflare,jquery,vscode&perline=10)
+  ![WebDev](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,nodejs,wordpress,react,mysql,postgresql,&perline=10)
 
 </details>
 
 <details>
   <summary>🖥️ Desktop & Backend Development</summary>
-
+  <br />
+  
   ![Desktop and Backend](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,kotlin,py,bots,firebase,godot,heroku,idea&perline=10)
 
 </details>
 
 <details>
   <summary>🔧 Frontend Design and Tooling</summary>
-
-  ![Design and Tools](https://skillicons.dev/icons?i=netlify,supabase,tailwind,visualstudio,androidstudio,bash&perline=10)
+  <br />
+  
+  ![Design and Tools](https://skillicons.dev/icons?i=netlify,supabase,tailwind,figma,ps,ai,cloudflare,jquery,vscode,visualstudio,androidstudio,bash,vim,docker,git&perline=10)
 
 </details>
 
@@ -44,34 +47,23 @@ Please explore my GitHub repositories and contact me if you have any questions o
 
 <details>
   <summary>💻 Coding stats</summary>
-  <!--START_SECTION:waka-->
+  <br />
 
-```all_time
-From: 23 July 2023 - To: 30 July 2023
+  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xyugen&layout=compact&theme=ocean_dark)
 
-Total Time: 11 hrs 4 mins
-
-TypeScript   4 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.38 %
-Sass         3 hrs 24 mins   ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.73 %
-HTML         1 hr 30 mins    ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.59 %
-Markdown     1 hr 3 mins     ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.58 %
-TSConfig     30 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.60 %
-Java         6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.04 %
-```
-
-<!--END_SECTION:waka-->
 </details>
 
 <details>
   <summary>⚡ GitHub Stats</summary>
   <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xyugen&theme=aura_dark&date_format=M%20j%5B%2C%20Y%5D" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyugen&theme=ocean_dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
   <br />
-  <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyugen&langs_count=8&layout=compact&theme=aura_dark&hide=html,Tcl" />
+
+  ![Most Used Languages](https://github-readme-stats-xyugen.vercel.app/api/top-langs/?username=xyugen&langs_count=8&layout=compact&theme=ocean_dark&size_weight=0.5&count_weight=0.5&hide=html,Tcl)
 </details>
 
 -----
-Last Edited on: 07/29/2023
+Last Edited on: 07/31/2023
 
 ![](https://komarev.com/ghpvc/?username=xyugen&color=red)
