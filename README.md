@@ -60,7 +60,7 @@ Please explore my GitHub repositories and contact me if you have any questions o
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyugen&theme=ocean_dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
   <br />
 
-  ![Most Used Languages](https://github-readme-stats-xyugen.vercel.app/api/top-langs/?username=xyugen&langs_count=8&layout=compact&theme=ocean_dark&size_weight=0.5&count_weight=0.5&hide=html,Tcl)
+  ![Most Used Languages](https://github-readme-stats-xyugen.vercel.app/api/top-langs/?username=xyugen&langs_count=8&layout=compact&theme=ocean_dark&size_weight=0.5&count_weight=0.5&hide=html,jupyter%20notebook)
 </details>
 
 -----
