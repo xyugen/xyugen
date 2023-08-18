@@ -4,7 +4,7 @@ I'm a versatile developer with a strong background in web development as well as
 
 Please explore my GitHub repositories and contact me if you have any questions or want to collaborate. Let's build something awesome together!
 
-### Current Status Quo:
+
 
 - 🔍 I’m looking for connections in **Web Development** and **Software Engineering** Industry.
 - 💬 Feel free to discuss with me about **Web Development** and **Software Engineering**</strong>
@@ -23,7 +23,7 @@ Please explore my GitHub repositories and contact me if you have any questions o
   <summary>🌎 Web Development</summary>
   <br />
 
-  ![WebDev](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,nodejs,react,webpack,vite,wordpress,react,tailwind,md,regex&perline=10)
+  ![WebDev](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,nodejs,react,svelte,webpack,vite,wordpress,react,tailwind,md,regex&perline=10)
 
 </details>
 
@@ -31,7 +31,7 @@ Please explore my GitHub repositories and contact me if you have any questions o
   <summary>🖥️ Desktop & Backend Development</summary>
   <br />
   
-  ![Desktop and Backend](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,kotlin,py,bots,firebase,godot,heroku,netlify,vercel,cloudflare,linux,mysql,postgresql,supabase,postman,prisma&perline=10)
+  ![Desktop and Backend](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,rust,java,kotlin,py,bots,firebase,godot,heroku,netlify,vercel,cloudflare,linux,mysql,postgresql,supabase,postman,prisma,express&perline=10)
 
 </details>
 
@@ -64,6 +64,6 @@ Please explore my GitHub repositories and contact me if you have any questions o
 </details>
 
 -----
-Last Edited on: 07/31/2023
+Last Edited on: 08/18/2023
 
 ![](https://komarev.com/ghpvc/?username=xyugen&color=red)
