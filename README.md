@@ -7,8 +7,8 @@ Please explore my GitHub repositories and contact me if you have any questions o
 
 
 - 🔍 I’m looking for connections in **Web Development** and **Software Engineering** Industry.
-- 💬 Feel free to discuss with me about **Web Development** and **Software Engineering**</strong>
-- ~~👀 See my [Personal Portfolio](https://portfolio.zxyugen.ga) to get more info~~
+- 💬 Feel free to discuss with me about **Web Development** and **Software Engineering**.
+- 👀 See my [Personal Portfolio](https://renzyx.is-a.dev/) to know more about me.
 
 ## How to reach me
 [![](https://img.shields.io/badge/renzyx.dev%40gmail.com-red?style=flat-square&logo=gmail&labelColor=white)](mailto:renzyx.dev@gmail.com)
@@ -64,6 +64,6 @@ Please explore my GitHub repositories and contact me if you have any questions o
 </details>
 
 -----
-Last Edited on: 08/18/2023
+Last Edited on: 07/06/2024
 
 ![](https://komarev.com/ghpvc/?username=xyugen&color=red)
